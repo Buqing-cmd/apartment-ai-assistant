@@ -1,0 +1,21 @@
+# 虚拟环境
+venv/
+.venv/
+
+# 密钥文件
+.env
+
+# 缓存
+__pycache__/
+*.pyc
+
+# 输出文件、图片、临时Excel
+output/
+tmp_*.xlsx
+*.xlsx
+
+# 日志
+*.log
+
+# vscode配置
+.vscode/
